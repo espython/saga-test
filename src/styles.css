@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding:30px 60px;
+}
+
+.input-form {
+  display : flex;
+  flex-direction:row;
+}
